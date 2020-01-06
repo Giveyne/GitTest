@@ -1,0 +1,12 @@
+.idea/*
+# folder logs
+logs/
+
+*.class
+*.war
+*.jar
+*.ear
+
+
+# txt - files
+docs/*.txt
