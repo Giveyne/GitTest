@@ -1,9 +1,8 @@
 package newGitTest;
 
 import java.util.Arrays;
-import java.util.LinkedList;
+import java.util.*;
 import java.util.List;
-import java.util.function.Predicate;
 
 
 public class BranchTest {
